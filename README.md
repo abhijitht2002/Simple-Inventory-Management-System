@@ -56,7 +56,7 @@ node server.js
 
 Server will run at:
 ```
-http://localhost:5000
+http://localhost:3000
 ```
 
 ---
